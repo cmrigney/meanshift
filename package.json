@@ -1,7 +1,7 @@
 {
   "name": "meanshift",
   "version": "1.0.0",
-  "description": "Wrapper for meanshift algorithm implemented by Halil I. CUCE",
+  "description": "Wrapper for meanshift algorithm implemented by Halil I. CUCE with minor modifications.",
   "main": "index.js",
   "scripts": {
     "preinstall": "node-gyp configure && node-gyp build",
