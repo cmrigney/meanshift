@@ -1,0 +1,21 @@
+{
+  "name": "meanshift",
+  "version": "1.0.0",
+  "description": "Wrapper for meanshift algorithm implemented by Halil I. CUCE",
+  "main": "index.js",
+  "scripts": {
+    "preinstall": "node-gyp configure && node-gyp build",
+    "test": "node tests/test.js"
+  },
+  "keywords": [
+    "meanshift",
+    "computer",
+    "vision"
+  ],
+  "dependencies": {
+    "@types/node": "0.0.2"
+  },
+  "types": "./index.d.ts",
+  "author": "Cody Rigney",
+  "license": "MIT"
+}
