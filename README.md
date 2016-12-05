@@ -1,4 +1,6 @@
 # Meanshift for Node JS #
+[![CircleCI](https://circleci.com/gh/cmrigney/meanshift.svg?style=svg)](https://circleci.com/gh/cmrigney/meanshift)
+
 This package is a wrapper of the C++ Meanshift Algorithm implementation by [Halil I. CUCE](http://www.cs.bilkent.edu.tr/~ismaila/MUSCLE/MSTracker.htm) with minor modifications. The Meanshift Algorithm is useful for object tracking in computer vision applications.
 
 ## Install ##
